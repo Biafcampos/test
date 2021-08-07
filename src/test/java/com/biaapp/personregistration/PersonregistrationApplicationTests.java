@@ -1,4 +1,4 @@
-package com.gilcadastro.personregistration;
+package com.biaapp.personregistration;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

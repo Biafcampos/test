@@ -1,7 +1,6 @@
-package com.gilcadastro.personregistration.controlller;
+package com.biaapp.personregistration.controlller;
 
 
-import com.gilcadastro.personregistration.entity.Person;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

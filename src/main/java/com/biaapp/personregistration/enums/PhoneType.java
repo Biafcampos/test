@@ -1,4 +1,4 @@
-package com.gilcadastro.personregistration.enums;
+package com.biaapp.personregistration.enums;
 
 
 import lombok.AllArgsConstructor;

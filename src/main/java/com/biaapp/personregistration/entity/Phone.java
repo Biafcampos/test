@@ -1,11 +1,11 @@
-package com.gilcadastro.personregistration.entity;
+package com.biaapp.personregistration.entity;
 
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import com.gilcadastro.personregistration.enums.PhoneType;
+import com.biaapp.personregistration.enums.PhoneType;
 
 import javax.persistence.*;
 
